@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Predicting Car Prices Using Machine Learning
 
 # Contents
@@ -131,3 +132,6 @@ By the end of this process, we have a comprehensive understanding of each model'
 ## R² Values of Models
 
 ![search](R/R2.png)
+=======
+# Predicting_Price_Cars
+>>>>>>> e7505c8490760245c5e029a57d401d881d690123
