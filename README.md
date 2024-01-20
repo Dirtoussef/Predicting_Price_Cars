@@ -44,7 +44,7 @@ executing the VehicleScraper, orchestrating the data scraping and handling the u
 | Modèle | Prix | Transmission | Version | Kilométrage | Carburant | Puissance | Évaluations | Vendeur | Nom de la Voiture | Date |
 |--------|------|--------------|---------|-------------|-----------|-----------|-------------|---------|-------------------|------|
 | Audi   | €74 999 | Boîte automatique | 55 TFSI Quattro Tiptronic S-Line INDIVIDUAL! | 34 000 km | Essence | 250 kW (340 CH) |  122  | Kristof D'herde • BE-9300 Aalst|Audi Q855 TFSI Quattro Tiptronic S-Line INDIVI  | 01/2021 |
-| Mercedes-benz | € 82 900|Boîte automatique|4.0 V8 BiTurbo Camera Memory glazen dak 213|21 300 km |Essence  340 kW (462 CH)|235|Wouter Klok • BE-3900 Overpelt|Mercedes-Benz AMG GT4.0 V8 BiTurbo| 	Ferrari 812GTS 6.5 V12 F1|10/2016|
+| Mercedes-benz | € 82 900|Boîte automatique|4.0 V8 BiTurbo Camera Memory glazen dak 213|21 300 km |Essence | 340 kW (462 CH)|235|Placido Palermo • BE-5190 Jemeppe-sur-Sambre| 	Mercedes-Benz AMG GT4.0 V8 BiTurb|10/2016|
 |Fiat| € 13 800 |Boîte automatique|NAVIGATIE*DIGITALE-AIRCO*CRUISE-CONTROLE*LED|46 546 km  |Essence |70 kW (95 CH)|179 |Philip Uyttendaele • BE-9340 Lede|Fiat TipoNAVIGATIE*DIGITALE-AIRCO*CRUISE-CONTR...|10/2016|
 |toyota|€ 19 490|Boîte automatique|X envy|4 642 km|Essence |53 kW (72 CH)|2|Huseyin Mazibas • BE-1070 Anderlecht|Toyota Aygo XX envy|12/201_|
 
@@ -61,7 +61,7 @@ We encountered missing values in the fields of **power**, **transmission**, and 
 
 **Matrice de Correlation**
 
-![search](R/corr.PNG)
+![search](R/corr.png)
 
 -Correlation Between **Price** and **Power** - **Power** and **Boite Automatique**.
 
@@ -72,7 +72,6 @@ We encountered missing values in the fields of **power**, **transmission**, and 
 
 
 ![search](R/vehiclecompare.png)
-
 
 
 
