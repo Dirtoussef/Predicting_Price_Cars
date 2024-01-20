@@ -30,7 +30,7 @@ The `VehicleScraper.py` script is designed to extract detailed information about
 To initiate the scraping process, the application is launched using the command python `main.py`. The main.py script serves as the entry point for 
 executing the VehicleScraper, orchestrating the data scraping and handling the user's choices for marque and model selection."
 
-![SEARCH](R/corr.PNG)
+![SEARCH](R/corr.png)
 
 
 
