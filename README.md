@@ -61,7 +61,7 @@ We encountered missing values in the fields of **power**, **transmission**, and 
 
 **Matrice de Correlation**
 
-![search](R/corr.PNG)
+![search](R/corr.png)
 
 -Correlation Between **Price** and **Power** - **Power** and **Boite Automatique**.
 
