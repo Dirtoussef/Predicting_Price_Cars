@@ -20,11 +20,17 @@ output:
 
 ---
 
-```{r echo=FALSE}
+```{r echo=FALSE,message=FALSE,warning=FALSE}
+options(warn = -1)
+
+# Charger les packages
 library(knitr)
 library(kableExtra)
 library(dplyr)
 library(readr)
+
+# Réactiver l'affichage des avertissements (optionnel)
+options(warn = 0)
 ```
 
 
